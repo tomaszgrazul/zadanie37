@@ -1,0 +1,28 @@
+body
+{
+    background-color: brown;
+}
+h1
+{
+    background-color: crimson;
+    color: aqua;
+    text-align: center;
+}
+p
+{
+    color: bisque;
+}
+button
+{
+    background-color: antiquewhite;
+    width: 20ex;
+    height: 10ex;
+    border-radius: 10%;
+    border-width: 1ex;
+    border-color: blueviolet;
+    font-size: xx-large;
+}
+.center
+{
+    text-align: center;
+}
